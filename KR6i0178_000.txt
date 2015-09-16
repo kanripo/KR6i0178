@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大花嚴長者問佛那羅延力經
+#+DATE: 2015-08-30 20:11:59.188018
+#+PROPERTY: JUAN 0
