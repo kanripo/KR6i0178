@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:11:58.974163
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:49
 #+TITLE: 大花嚴長者問佛那羅延力經
 #+PROPERTY: CBETA_ID T14n0547
 #+PROPERTY: ID KR6i0178
@@ -10,9 +10,8 @@
 #+PROPERTY: LASTPB <pb:KR6i0178_T_001-0853a> 
 #+PROPERTY: JUAN 1
 ¶
-No.547¶
-
- 大花嚴長者問佛那羅延力經¶
+No. 547¶
+大花嚴長者問佛那羅延力經¶
 ¶
 罽賓國三藏般若共利言譯¶
 
